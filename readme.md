@@ -2,4 +2,4 @@
 
 ## Instructions:
 - Setup QMK using qmk docs
-- Run the command qmk flash -kb klein -km default --clean
+- Run the command ``` qmk flash -kb klein -km default --clean ```
